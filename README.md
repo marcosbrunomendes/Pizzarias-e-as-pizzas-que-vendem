@@ -1,7 +1,7 @@
-# Pizzarias-e-as-pizzas-que-vendem
+# Analise de dados do dataset da Dafiti - Pizzarias e as pizzas que vendem
 
-## **Passo a passo para intalação Jupyter notebook**
-Para abrir e executar notebook precira te-lo em seu computador, caso não tenha sigas as intruções para instalação.
+## **Instalação do Jupyter Notebook**
+Para abrir e executar o notebook precisará tê-lo em seu computador, caso não tenha sigas as intruções para instalação.
 Clique no link para instalar <a href="https://jupyter.org/install">jupyter</a>
 
 ## **Pizzarias e as pizzas que vendem**

@@ -1,6 +1,7 @@
 # Pizzarias-e-as-pizzas-que-vendem
 
-
+## **Passo a passo para intalação Jupyter notebook**
+Clique no link: <a href="https://jupyter.org/install">jupyter</a>
 ## **Pizzarias e as pizzas que vendem**
 Uma lista de pizzarias, 3.500 pizzas e seus preços de menu.
 

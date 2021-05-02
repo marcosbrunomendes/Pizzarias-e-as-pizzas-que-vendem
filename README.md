@@ -11,8 +11,8 @@ Observe que este é um exemplo de um grande conjunto de dados. O conjunto de dad
 O que você pode fazer com esses dados
 Você pode usar esses dados para descobrir quanto pode esperar pagar por uma pizza em todo o país . Por exemplo:
 
--Quais são os sabores de pizzas com mais frequência?
--Restaurantes mais populares
+-#Quais são os sabores de pizzas com mais frequência?
+-#Restaurantes mais populares
 -Principais cidades maior consumo de pizza
 -Sabor pizza mais popular
 -Sabor pizza menos popular

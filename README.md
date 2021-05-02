@@ -1,7 +1,9 @@
 # Pizzarias-e-as-pizzas-que-vendem
 
 ## **Passo a passo para intalação Jupyter notebook**
-Clique no link: <a href="https://jupyter.org/install">jupyter</a>
+Para abrir e executar notebook precira te-lo em seu computador, caso não tenha sigas as intruções para instalação.
+Clique no link para instalar <a href="https://jupyter.org/install">jupyter</a>
+
 ## **Pizzarias e as pizzas que vendem**
 Uma lista de pizzarias, 3.500 pizzas e seus preços de menu.
 

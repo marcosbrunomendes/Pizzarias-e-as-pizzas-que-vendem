@@ -1,5 +1,4 @@
-# Analise de dados do dataset da Dafiti - Pizzarias e as pizzas que vendem
-
+# Analise de dados do dataset da Dafiti - Sabores de pizza que mais vendem no EUA
 ## **Instalação do Jupyter Notebook**
 Para abrir e executar o notebook precisará tê-lo em seu computador, caso não tenha sigas as intruções para instalação.
 Clique no link para instalar <a href="https://jupyter.org/install">jupyter</a>
